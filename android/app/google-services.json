@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920892732473",
+    "firebase_url": "https://aksc-a1217.firebaseio.com",
+    "project_id": "aksc-a1217",
+    "storage_bucket": "aksc-a1217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920892732473:android:d0338511bec9bd458349e8",
+        "android_client_info": {
+          "package_name": "com.acm.aksc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920892732473-resddujjetckjc4mbo96l9t2i2nklddh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt48hq3xS0nYJMCSVBS9b6h6mrZjeITK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920892732473-resddujjetckjc4mbo96l9t2i2nklddh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
